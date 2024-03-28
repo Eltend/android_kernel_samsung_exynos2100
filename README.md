@@ -1,5 +1,5 @@
 # Features of this Fork
-1. Its a backup wirh important files
+1. Its a backup with important files
 
 
 
